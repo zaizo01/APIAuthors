@@ -19,7 +19,6 @@ C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\WebAPIAutores.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\WebAPIAutores.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\staticwebassets\WebAPIAutores.StaticWebAssets.Manifest.cache
-C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\staticwebassets\WebAPIAutores.StaticWebAssets.xml
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\scopedcss\bundle\WebAPIAutores.styles.css
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\WebAPIAutores.RazorTargetAssemblyInfo.cache
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\WebAPIAutores.csproj.CopyComplete
@@ -62,3 +61,9 @@ C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\bin\Debug\net5.0\WebAPIAutores.xml
+C:\Users\zaiz\Desktop\Desktop\API Restful Course\WebAPIAutores\WebAPIAutores\obj\Debug\net5.0\WebAPIAutores.xml
